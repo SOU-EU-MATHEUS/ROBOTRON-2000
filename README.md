@@ -6,11 +6,11 @@ Trabalho realizado com JavaScript na plataforma Alura.
 | -------------  | --- |
 | :sparkles: Nome        | **Robotron-2000**
 | :label: Tecnologias | HTML, CSS e JavaScript(tecnologias utilizadas)
-| :rocket: URL         | https://vercel.com/sou-eu-matheus/robotron-2000/HKCJB4uz9aLCAJ9pUHDCphs7VJhs
+| :rocket: URL         | https://sou-eu-matheus.github.io/ROBOTRON-2000/
 | :fire: Desafio     | JavaScript: manipulando o DOM
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://sou-eu-matheus.github.io/ROBOTRON-2000/#vitrinedev)
+![](https://vercel.com/8b719e9c-3b07-4fa1-b413-3687af278108#vitrinedev)
 
 ## Detalhes do projeto
 
