@@ -1,17 +1,23 @@
-# Nome do meu projeto
+# ROBOTRON-2000
 
-Rápida descrição do objetivo de fazer esse projeto
+Trabalho realizado com JavaScript na plataforma Alura.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Robotron-2000**
+| :label: Tecnologias | HTML, CSS e JavaScript(tecnologias utilizadas)
+| :rocket: URL         | https://vercel.com/sou-eu-matheus/robotron-2000/HKCJB4uz9aLCAJ9pUHDCphs7VJhs
+| :fire: Desafio     | JavaScript: manipulando o DOM
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/SOU-EU-MATHEUS/ROBOTRON-2000/blob/main/robotron-capa.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+.Entenda a interação do JavaScript com HTML e CSS.
+.Utilize o JavaScript em uma página real
+.Aprenda a tornar uma página dinâmica
+.Manipule dados, eventos e elementos com JavaScript
+.Entenda como o JavaScript trabalha
+.Construa robôs para salvar o planeta Terra de uma invasão alienígena
+.Explore, crie e declare funções no JavaScript
