@@ -10,8 +10,14 @@ Trabalho realizado com JavaScript na plataforma Alura.
 | :fire: Desafio     | JavaScript: manipulando o DOM
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://robotron-2000-smoky-six.vercel.app/#vitrinedev)
+![](https://github.com/SOU-EU-MATHEUS/ROBOTRON-2000/blob/main/robotron-capa.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Entenda a interação do JavaScript com HTML e CSS.
+Utilize o JavaScript em uma página real
+Aprenda a tornar uma página dinâmica
+Manipule dados, eventos e elementos com JavaScript
+Entenda como o JavaScript trabalha
+Construa robôs para salvar o planeta Terra de uma invasão alienígena
+Explore, crie e declare funções no JavaScript
