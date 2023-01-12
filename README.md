@@ -10,7 +10,7 @@ Trabalho realizado com JavaScript na plataforma Alura.
 | :fire: Desafio     | JavaScript: manipulando o DOM
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/SOU-EU-MATHEUS/ROBOTRON-2000/blob/main/robotron-capa.png#vitrinedev)
+![](https://sou-eu-matheus.github.io/ROBOTRON-2000/#vitrinedev)
 
 ## Detalhes do projeto
 
