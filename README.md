@@ -12,12 +12,18 @@ Trabalho realizado com JavaScript na plataforma Alura.
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/SOU-EU-MATHEUS/ROBOTRON-2000/blob/main/robotron-capa.png#vitrinedev)
 
-## Detalhes do projeto
+## Detalhes do curso/projeto.
 
-Entenda a interação do JavaScript com HTML e CSS.
-Utilize o JavaScript em uma página real
-Aprenda a tornar uma página dinâmica
-Manipule dados, eventos e elementos com JavaScript
-Entenda como o JavaScript trabalha
-Construa robôs para salvar o planeta Terra de uma invasão alienígena
-Explore, crie e declare funções no JavaScript
+<p>.Entenda a interação do JavaScript com HTML e CSS.</p>
+
+<p>.Utilize o JavaScript em uma página real</p>
+
+<p>.Aprenda a tornar uma página dinâmica</p>
+
+<p>.Manipule dados, eventos e elementos com JavaScript</p>
+
+<p>.Entenda como o JavaScript trabalha</p>
+
+<p>.Construa robôs para salvar o planeta Terra de uma invasão alienígena</p>
+
+<p>.Explore, crie e declare funções no JavaScript</p>
